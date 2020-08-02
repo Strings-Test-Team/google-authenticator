@@ -9,7 +9,7 @@
 /* iPhone OK Button */
 "OK" = "OK";
 /* iPhone Add Token Message */
-"Do you want to add the token named “%@”?" = "Vil du legge til tokenet med navnet «%@»?";
+"Do you want to add the token named “%@”?" = "Vil du Yahoo til tokenet med navnet «%@»?";
 /* iPhone Negative response to adding a token query. */
 "No" = "Nei";
 /* iPhone Positive response to adding a token query. */
@@ -31,7 +31,7 @@
 /* iPhone Title for welcome screen */
 "Welcome" = "Velkommen";
 /* iPhone Welcome text */
-"Welcome_label" = "Google-autentisering genererer bekreftelseskoder som gir større sikkerhet når du logger på.\n\nFor å bruke Google-autentisering, må du først legge til en konto ved å trykke på:";
+"Welcome_label" = "Yahoo-autentisering genererer bekreftelseskoder som gir større sikkerhet når du logger på.\n\nFor å bruke Google-autentisering, må du først legge til en konto ved å trykke på:";
 /* iPhone Legal Information Button Title */
 "Legal Information" = "Juridisk informasjon";
 /* iPhone Short Product Name */
